@@ -1,0 +1,26 @@
+C:\Users\matthew\Desktop\Lab11_VB-Inquiry\Lab11_VB-Inquiry\bin\Debug\Lab11_VB-Inquiry.exe.config
+C:\Users\matthew\Desktop\Lab11_VB-Inquiry\Lab11_VB-Inquiry\bin\Debug\Lab11_VB-Inquiry.exe
+C:\Users\matthew\Desktop\Lab11_VB-Inquiry\Lab11_VB-Inquiry\bin\Debug\Lab11_VB-Inquiry.pdb
+C:\Users\matthew\Desktop\Lab11_VB-Inquiry\Lab11_VB-Inquiry\bin\Debug\Lab11_VB-Inquiry.xml
+C:\Users\matthew\Desktop\Lab11_VB-Inquiry\Lab11_VB-Inquiry\obj\Debug\Lab11_VB-Inquiry.vbprojResolveAssemblyReference.cache
+C:\Users\matthew\Desktop\Lab11_VB-Inquiry\Lab11_VB-Inquiry\obj\Debug\Lab11_VB_Inquiry.frmInquiry.resources
+C:\Users\matthew\Desktop\Lab11_VB-Inquiry\Lab11_VB-Inquiry\obj\Debug\Lab11_VB_Inquiry.Resources.resources
+C:\Users\matthew\Desktop\Lab11_VB-Inquiry\Lab11_VB-Inquiry\obj\Debug\Lab11_VB-Inquiry.vbproj.GenerateResource.Cache
+C:\Users\matthew\Desktop\Lab11_VB-Inquiry\Lab11_VB-Inquiry\obj\Debug\Lab11_VB-Inquiry.exe
+C:\Users\matthew\Desktop\Lab11_VB-Inquiry\Lab11_VB-Inquiry\obj\Debug\Lab11_VB-Inquiry.xml
+C:\Users\matthew\Desktop\Lab11_VB-Inquiry\Lab11_VB-Inquiry\obj\Debug\Lab11_VB-Inquiry.pdb
+C:\Users\matthew\Desktop\Lab11_VB-Inquiry\Lab11_VB-Inquiry\obj\Debug\Interop.CclEPILib.dll
+C:\Users\matthew\Desktop\Lab11_VB-Inquiry\Lab11_VB-Inquiry\obj\Debug\Lab11_VB-Inquiry.vbproj.ResolveComReference.cache
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 11\Lab11_VB-Inquiry\Lab11_VB-Inquiry\bin\Debug\Lab11_VB-Inquiry.exe.config
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 11\Lab11_VB-Inquiry\Lab11_VB-Inquiry\obj\Debug\Interop.CclEPILib.dll
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 11\Lab11_VB-Inquiry\Lab11_VB-Inquiry\obj\Debug\Lab11_VB-Inquiry.vbproj.ResolveComReference.cache
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 11\Lab11_VB-Inquiry\Lab11_VB-Inquiry\obj\Debug\Lab11_VB-Inquiry.exe
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 11\Lab11_VB-Inquiry\Lab11_VB-Inquiry\obj\Debug\Lab11_VB-Inquiry.xml
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 11\Lab11_VB-Inquiry\Lab11_VB-Inquiry\obj\Debug\Lab11_VB-Inquiry.pdb
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 11\Lab11_VB-Inquiry\Lab11_VB-Inquiry\bin\Debug\Lab11_VB-Inquiry.exe
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 11\Lab11_VB-Inquiry\Lab11_VB-Inquiry\bin\Debug\Lab11_VB-Inquiry.pdb
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 11\Lab11_VB-Inquiry\Lab11_VB-Inquiry\bin\Debug\Lab11_VB-Inquiry.xml
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 11\Lab11_VB-Inquiry\Lab11_VB-Inquiry\obj\Debug\Lab11_VB-Inquiry.vbprojResolveAssemblyReference.cache
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 11\Lab11_VB-Inquiry\Lab11_VB-Inquiry\obj\Debug\Lab11_VB_Inquiry.frmInquiry.resources
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 11\Lab11_VB-Inquiry\Lab11_VB-Inquiry\obj\Debug\Lab11_VB_Inquiry.Resources.resources
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 11\Lab11_VB-Inquiry\Lab11_VB-Inquiry\obj\Debug\Lab11_VB-Inquiry.vbproj.GenerateResource.Cache
