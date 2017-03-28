@@ -1,0 +1,28 @@
+C:\Users\matthew\Desktop\CourseCodeCICSInterface\CourseCodeCICSInterface\bin\Debug\CourseCodeCICSInterface.exe.config
+C:\Users\matthew\Desktop\CourseCodeCICSInterface\CourseCodeCICSInterface\bin\Debug\CourseCodeCICSInterface.exe
+C:\Users\matthew\Desktop\CourseCodeCICSInterface\CourseCodeCICSInterface\bin\Debug\CourseCodeCICSInterface.pdb
+C:\Users\matthew\Desktop\CourseCodeCICSInterface\CourseCodeCICSInterface\bin\Debug\CourseCodeCICSInterface.xml
+C:\Users\matthew\Desktop\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\CourseCodeCICSInterface.vbprojResolveAssemblyReference.cache
+C:\Users\matthew\Desktop\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\Interop.CclECILib.dll
+C:\Users\matthew\Desktop\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\CourseCodeCICSInterface.vbproj.ResolveComReference.cache
+C:\Users\matthew\Desktop\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\CourseCodeCICSInterface.Resources.resources
+C:\Users\matthew\Desktop\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\CourseCodeCICSInterface.vbproj.GenerateResource.Cache
+C:\Users\matthew\Desktop\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\CourseCodeCICSInterface.exe
+C:\Users\matthew\Desktop\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\CourseCodeCICSInterface.xml
+C:\Users\matthew\Desktop\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\CourseCodeCICSInterface.pdb
+C:\Users\matthew\Desktop\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\Interop.CclEPILib.dll
+C:\Users\matthew\Desktop\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\CourseCodeCICSInterface.frmInterface.resources
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 9\CourseCodeCICSInterface\CourseCodeCICSInterface\bin\Debug\CourseCodeCICSInterface.exe.config
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 9\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\Interop.CclECILib.dll
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 9\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\Interop.CclEPILib.dll
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 9\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\CourseCodeCICSInterface.vbproj.ResolveComReference.cache
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 9\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\CourseCodeCICSInterface.exe
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 9\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\CourseCodeCICSInterface.xml
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 9\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\CourseCodeCICSInterface.pdb
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 9\CourseCodeCICSInterface\CourseCodeCICSInterface\bin\Debug\CourseCodeCICSInterface.exe
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 9\CourseCodeCICSInterface\CourseCodeCICSInterface\bin\Debug\CourseCodeCICSInterface.pdb
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 9\CourseCodeCICSInterface\CourseCodeCICSInterface\bin\Debug\CourseCodeCICSInterface.xml
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 9\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\CourseCodeCICSInterface.frmInterface.resources
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 9\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\CourseCodeCICSInterface.Resources.resources
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 9\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\CourseCodeCICSInterface.vbproj.GenerateResource.Cache
+C:\Users\matthew\Desktop\CPA\SEM VI\MAFD III\Labs\Lab 9\CourseCodeCICSInterface\CourseCodeCICSInterface\obj\Debug\CourseCodeCICSInterface.vbprojResolveAssemblyReference.cache
