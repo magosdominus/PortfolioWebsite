@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\payrollConvertorV3.0\payrollConvertorV3.0\bin\Debug\payrollConvertorV3.0.exe.config
+C:\Users\user\Desktop\payrollConvertorV3.0\payrollConvertorV3.0\bin\Debug\payrollConvertorV3.0.exe
+C:\Users\user\Desktop\payrollConvertorV3.0\payrollConvertorV3.0\bin\Debug\payrollConvertorV3.0.pdb
+C:\Users\user\Desktop\payrollConvertorV3.0\payrollConvertorV3.0\bin\Debug\payrollConvertorV3.0.xml
+C:\Users\user\Desktop\payrollConvertorV3.0\payrollConvertorV3.0\obj\Debug\payrollConvertorV3.0.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\payrollConvertorV3.0\payrollConvertorV3.0\obj\Debug\MainWindow.g.vb
+C:\Users\user\Desktop\payrollConvertorV3.0\payrollConvertorV3.0\obj\Debug\Application.g.vb
+C:\Users\user\Desktop\payrollConvertorV3.0\payrollConvertorV3.0\obj\Debug\payrollConvertorV3.0_MarkupCompile.cache
+C:\Users\user\Desktop\payrollConvertorV3.0\payrollConvertorV3.0\obj\Debug\payrollConvertorV3.0_MarkupCompile.lref
+C:\Users\user\Desktop\payrollConvertorV3.0\payrollConvertorV3.0\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\payrollConvertorV3.0\payrollConvertorV3.0\obj\Debug\payrollConvertorV3.0.g.resources
+C:\Users\user\Desktop\payrollConvertorV3.0\payrollConvertorV3.0\obj\Debug\incInc.Resources.resources
+C:\Users\user\Desktop\payrollConvertorV3.0\payrollConvertorV3.0\obj\Debug\payrollConvertorV3.0.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\payrollConvertorV3.0\payrollConvertorV3.0\obj\Debug\payrollConvertorV3.0.exe
+C:\Users\user\Desktop\payrollConvertorV3.0\payrollConvertorV3.0\obj\Debug\payrollConvertorV3.0.xml
+C:\Users\user\Desktop\payrollConvertorV3.0\payrollConvertorV3.0\obj\Debug\payrollConvertorV3.0.pdb
