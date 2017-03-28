@@ -1,0 +1,64 @@
+C:\Users\shogu\Desktop\Durak\CardGameLibrary\bin\Debug\CardGameLibrary.dll
+C:\Users\shogu\Desktop\Durak\CardGameLibrary\bin\Debug\CardGameLibrary.pdb
+C:\Users\shogu\Desktop\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.Properties.Resources.resources
+C:\Users\shogu\Desktop\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.csproj.GenerateResource.Cache
+C:\Users\shogu\Desktop\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.dll
+C:\Users\shogu\Desktop\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.pdb
+C:\Users\shogu\Desktop\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\shogu\Desktop\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.CardBox.resources
+C:\Users\matthew\Desktop\Durak\CardGameLibrary\bin\Debug\CardGameLibrary.dll
+C:\Users\matthew\Desktop\Durak\CardGameLibrary\bin\Debug\CardGameLibrary.pdb
+C:\Users\matthew\Desktop\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\matthew\Desktop\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.CardBox.resources
+C:\Users\matthew\Desktop\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.Properties.Resources.resources
+C:\Users\matthew\Desktop\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.csproj.GenerateResource.Cache
+C:\Users\matthew\Desktop\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.dll
+C:\Users\matthew\Desktop\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.pdb
+C:\Users\shogu\School\Extra Semester\OOP3\group project\Durak - Prototype v1.0\Durak\CardGameLibrary\bin\Debug\CardGameLibrary.dll
+C:\Users\shogu\School\Extra Semester\OOP3\group project\Durak - Prototype v1.0\Durak\CardGameLibrary\bin\Debug\CardGameLibrary.pdb
+C:\Users\shogu\School\Extra Semester\OOP3\group project\Durak - Prototype v1.0\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\shogu\School\Extra Semester\OOP3\group project\Durak - Prototype v1.0\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.CardBox.resources
+C:\Users\shogu\School\Extra Semester\OOP3\group project\Durak - Prototype v1.0\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.Properties.Resources.resources
+C:\Users\shogu\School\Extra Semester\OOP3\group project\Durak - Prototype v1.0\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.csproj.GenerateResource.Cache
+C:\Users\shogu\School\Extra Semester\OOP3\group project\Durak - Prototype v1.0\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.dll
+C:\Users\shogu\School\Extra Semester\OOP3\group project\Durak - Prototype v1.0\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.pdb
+C:\Users\shogu\Desktop\Report #4\Durak\CardGameLibrary\bin\Debug\CardGameLibrary.dll
+C:\Users\shogu\Desktop\Report #4\Durak\CardGameLibrary\bin\Debug\CardGameLibrary.pdb
+C:\Users\shogu\Desktop\Report #4\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\shogu\Desktop\Report #4\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.CardBox.resources
+C:\Users\shogu\Desktop\Report #4\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.Properties.Resources.resources
+C:\Users\shogu\Desktop\Report #4\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.csproj.GenerateResource.Cache
+C:\Users\shogu\Desktop\Report #4\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.dll
+C:\Users\shogu\Desktop\Report #4\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.pdb
+C:\Users\shogu\Desktop\Durak-2016-April-13\Durak\CardGameLibrary\bin\Debug\CardGameLibrary.dll
+C:\Users\shogu\Desktop\Durak-2016-April-13\Durak\CardGameLibrary\bin\Debug\CardGameLibrary.pdb
+C:\Users\shogu\Desktop\Durak-2016-April-13\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\shogu\Desktop\Durak-2016-April-13\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.CardBox.resources
+C:\Users\shogu\Desktop\Durak-2016-April-13\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.Properties.Resources.resources
+C:\Users\shogu\Desktop\Durak-2016-April-13\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.csproj.GenerateResource.Cache
+C:\Users\shogu\Desktop\Durak-2016-April-13\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.dll
+C:\Users\shogu\Desktop\Durak-2016-April-13\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.pdb
+C:\Users\shogu\Desktop\Durak-2016-April-15\Durak\CardGameLibrary\bin\Debug\CardGameLibrary.dll
+C:\Users\shogu\Desktop\Durak-2016-April-15\Durak\CardGameLibrary\bin\Debug\CardGameLibrary.pdb
+C:\Users\shogu\Desktop\Durak-2016-April-15\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\shogu\Desktop\Durak-2016-April-15\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.CardBox.resources
+C:\Users\shogu\Desktop\Durak-2016-April-15\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.Properties.Resources.resources
+C:\Users\shogu\Desktop\Durak-2016-April-15\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.csproj.GenerateResource.Cache
+C:\Users\shogu\Desktop\Durak-2016-April-15\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.dll
+C:\Users\shogu\Desktop\Durak-2016-April-15\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.pdb
+C:\Users\shogu\School\Extra Semester\OOP3\group project\Durak-2016-April-15-version3\Durak-2016-April-15\Durak\CardGameLibrary\bin\Debug\CardGameLibrary.dll
+C:\Users\shogu\School\Extra Semester\OOP3\group project\Durak-2016-April-15-version3\Durak-2016-April-15\Durak\CardGameLibrary\bin\Debug\CardGameLibrary.pdb
+C:\Users\shogu\School\Extra Semester\OOP3\group project\Durak-2016-April-15-version3\Durak-2016-April-15\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\shogu\School\Extra Semester\OOP3\group project\Durak-2016-April-15-version3\Durak-2016-April-15\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.CardBox.resources
+C:\Users\shogu\School\Extra Semester\OOP3\group project\Durak-2016-April-15-version3\Durak-2016-April-15\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.Properties.Resources.resources
+C:\Users\shogu\School\Extra Semester\OOP3\group project\Durak-2016-April-15-version3\Durak-2016-April-15\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.csproj.GenerateResource.Cache
+C:\Users\shogu\School\Extra Semester\OOP3\group project\Durak-2016-April-15-version3\Durak-2016-April-15\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.dll
+C:\Users\shogu\School\Extra Semester\OOP3\group project\Durak-2016-April-15-version3\Durak-2016-April-15\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.pdb
+C:\Users\matthew\Desktop\Work\Portfolio\Application Development\Durak Card Game - C#\Durak\CardGameLibrary\bin\Debug\CardGameLibrary.dll
+C:\Users\matthew\Desktop\Work\Portfolio\Application Development\Durak Card Game - C#\Durak\CardGameLibrary\bin\Debug\CardGameLibrary.pdb
+C:\Users\matthew\Desktop\Work\Portfolio\Application Development\Durak Card Game - C#\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\matthew\Desktop\Work\Portfolio\Application Development\Durak Card Game - C#\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.CardBox.resources
+C:\Users\matthew\Desktop\Work\Portfolio\Application Development\Durak Card Game - C#\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.Properties.Resources.resources
+C:\Users\matthew\Desktop\Work\Portfolio\Application Development\Durak Card Game - C#\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.csproj.GenerateResource.Cache
+C:\Users\matthew\Desktop\Work\Portfolio\Application Development\Durak Card Game - C#\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.dll
+C:\Users\matthew\Desktop\Work\Portfolio\Application Development\Durak Card Game - C#\Durak\CardGameLibrary\obj\Debug\CardGameLibrary.pdb
