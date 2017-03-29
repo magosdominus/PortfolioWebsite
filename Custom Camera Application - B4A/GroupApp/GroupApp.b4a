@@ -1,0 +1,275 @@
+﻿Version=5.8
+NumberOfModules=1
+Module1=Starter
+Build1=Default,b4a.example
+ManifestCode='This code will be applied to the manifest file during compilation.~\n~'You do not need to modify it in most cases.~\n~'See this link for for more information: http://www.b4x.com/forum/showthread.php?p=78136~\n~AddManifestText(~\n~<uses-sdk android:minSdkVersion="5" android:targetSdkVersion="19"/>~\n~<supports-screens android:largeScreens="true" ~\n~    android:normalScreens="true" ~\n~    android:smallScreens="true" ~\n~    android:anyDensity="true"/>)~\n~SetApplicationAttribute(android:icon, "@drawable/icon")~\n~SetApplicationAttribute(android:label, "$LABEL$")~\n~'End of default text.~\n~
+IconFile=
+NumberOfFiles=1
+File1=Main.bal
+NumberOfLibraries=5
+Library1=core
+Library2=phone
+Library3=tts
+Library4=audio
+Library5=camera
+@EndOfDesignText@
+#Region Module Attributes
+	#FullScreen: False
+	#IncludeTitle: False
+	#ApplicationLabel: Camera App
+	#VersionCode: 1
+	#VersionName: 
+	#SupportedOrientations: landscape
+#End Region
+
+' Camera App
+'
+' Description: This application will allow the user to take a picture with thier phone's rear facing camera. The
+'			   user may choose the filename and if to append the current date to the filename. The app will play a
+'			   audio beeper when a picture is taken and a text-to-speech option will read out the filename.
+'
+' @author Matthew Cormier, Kyle Warner
+' @since 1.0 (03/28/2016)
+
+Sub Process_Globals
+	'These global variables will be declared once when the application starts.
+	'These variables can be accessed from all modules.
+
+	Dim TTS1 As TTS
+	Dim timerProgress As Timer
+	
+		
+End Sub
+
+Sub Globals
+	'These global variables will be redeclared each time the activity is created.
+	'These variables can only be accessed from this module.
+
+	Dim camera1 As Camera
+	Dim btnTakePicture As Button
+	Dim pnlPreview As Panel
+	
+	
+	Dim lblFileName As Label
+	Dim lblAppendDate As Label 
+	Dim txtFileName As EditText
+	Dim spiDate As Spinner
+	Dim btnReadFileName As Button
+	Dim pbProgress As ProgressBar
+	
+	Public includeDate As Boolean
+	Public fileName As String 
+	Public currentDate As String
+	Public errorMessage As String = ""
+	
+	Public cameraBeep As Beeper 
+
+	Public tickNum As Int
+	
+
+	Private radLight As RadioButton
+	Private radDark As RadioButton
+	
+	Public btnBeep As Beeper
+	
+	
+End Sub
+
+Sub Activity_Create(FirstTime As Boolean)
+
+	Activity.LoadLayout("Main")
+	spiDate.Add("Append Date")
+	spiDate.Add("Do Not Append Date")
+	
+	btnReadFileName.Text = "Read filename"
+	timerProgress.Initialize("timerProgress", 200)
+	radDark.Checked = True
+	radDark.Visible = False
+	btnBeep.Initialize(30, 700)
+	
+End Sub
+
+Sub Activity_Resume
+
+	' initialize camera and tts.
+	btnTakePicture.Enabled = False
+	camera1.Initialize(pnlPreview, "Camera1")
+	
+	
+	
+	If TTS1.IsInitialized = False Then
+		TTS1.Initialize("TTS1")
+	End If
+	
+End Sub
+
+Sub Activity_Pause (UserClosed As Boolean)
+	camera1.Release
+End Sub
+
+Sub Camera1_Ready (Success As Boolean)
+	If Success Then
+		camera1.StartPreview
+		btnTakePicture.Enabled = True
+	Else
+		ToastMessageShow("Cannot open camera.", True)
+	End If
+End Sub
+
+Sub Camera1_PictureTaken (Data() As Byte)
+	camera1.StartPreview
+	
+	Dim out As OutputStream
+	
+	errorMessage = ""
+	
+	' Initialize beeper.
+	cameraBeep.Initialize(300, 500)
+	
+	' If txtFileName has an inputted value...
+	If (txtFileName.Text.Length > 0) Then
+		
+		' If txtFileName has any invalid characters...
+		If (txtFileName.Text.Contains("?") Or txtFileName.Text.Contains(":") Or txtFileName.Text.Contains("\") Or txtFileName.Text.Contains("*") Or txtFileName.Text.Contains("|") Or txtFileName.Text.Contains("/") Or txtFileName.Text.Contains("\") Or txtFileName.Text.Contains("<") Or txtFileName.Text.Contains(">")) Then
+			
+			' Set error message.
+			errorMessage = "Error! Invalid filename characters."
+			
+		Else 
+			
+			' Set txtFileName to fileName.
+			fileName = txtFileName.Text 
+			
+			' If append date is selected...
+			If (spiDate.SelectedIndex = 0) Then 
+				
+				Dim myDate As String = DateTime.Now
+				fileName = fileName & "_" & myDate
+				
+			End If 
+			
+		End If 
+		
+	Else
+		
+		' set filename to default value.
+		fileName = "default"
+		
+	End If 
+	
+	' If there was not an input error...
+	If (errorMessage = "") Then 
+	
+		fileName = fileName & ".jpg"
+		
+		' Save image as filename.
+		out = File.OpenOutput(File.DirRootExternal, fileName, False)
+		out.WriteBytes(Data, 0, Data.Length)
+		out.Close
+
+		btnTakePicture.Enabled = True
+		
+		' Play the beeper.
+		cameraBeep.Beep
+		
+		' Fill the progress bar 
+		tickNum = 0
+		timerProgress.Enabled = True
+		ToastMessageShow("Image saved: " & File.Combine(File.DirRootExternal, fileName), True)
+		
+	Else 
+		
+		' Output error message.
+		ToastMessageShow(errorMessage, True)
+		btnTakePicture.Enabled = True
+		
+	End If 
+	
+End Sub
+
+Sub btnReadFileName_Click
+	
+	' If there was a saved filename
+	If fileName.Length > 0 Then
+		
+		' Read filename.
+		TTS1.Speak(fileName, True)
+		
+	End If
+End Sub
+
+Sub btnTakePicture_Click
+	btnTakePicture.Enabled = False
+	camera1.TakePicture
+End Sub
+
+Sub timerProgress_tick
+	
+	btnTakePicture.Enabled = False
+	tickNum = tickNum + 5
+	pbProgress.Enabled = True
+	pbProgress.Progress = tickNum
+	pbProgress.Visible = True 
+	 
+	If tickNum > 100 Then
+	 	
+		btnTakePicture.Enabled = True
+		pbProgress.Enabled = False
+		pbProgress.Visible = False
+		
+	End If
+	
+End Sub
+
+
+
+Sub radLight_CheckedChange(Checked As Boolean)
+	
+	Activity.Color = Colors.White
+	
+	btnBeep.Beep
+	
+	radDark.Visible = True
+	radLight.Visible = False
+	
+	lblAppendDate.TextColor = Colors.Black
+	lblFileName.TextColor = Colors.Black
+	
+	spiDate.DropdownBackgroundColor = Colors.White
+	spiDate.DropdownTextColor = Colors.Black
+	
+	spiDate.TextColor = Colors.White
+	
+
+	
+	
+	
+	
+End Sub
+
+
+
+Sub radDark_CheckedChange(Checked As Boolean)
+	
+	Activity.Color = Colors.Black
+	
+	btnBeep.Beep
+	
+	radLight.Visible = True
+	radDark.Visible = False
+	
+	lblAppendDate.TextColor = Colors.White
+	lblFileName.TextColor = Colors.White
+	
+	spiDate.DropdownBackgroundColor = Colors.Black
+	spiDate.DropdownTextColor = Colors.White
+	
+	
+	
+End Sub
+
+
+	
+	
+	
+	
