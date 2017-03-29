@@ -1,0 +1,43 @@
+Journal #1
+
+	planning
+	
+Journal #2
+
+	design
+	
+Journal #3
+
+	design further 
+	
+Journal #4 
+
+	Created ASP.NET WEB API 2 project
+	Created user model and controller
+	Settup routing 
+	Edited default index page
+	Bought web server hosting 
+	Settup MySQL database 
+	Wrote and applied SQL scripts to db 
+	Populated table with sample data 
+	Connected web API to db
+	Initial testing of web API on local system
+	
+Journal #5 
+
+	
+	
+	Introduction 3
+	
+	System Overview 4
+	System Requirements 4
+	Mission Statement 5
+	Mission Objectives 5
+	System Architecture 6-7
+	User views	8
+	CRUD Analysis 8
+	Securty 8
+	
+	Class Diagram 9
+	Normalixation 10-11
+	Data Dictionary 12
