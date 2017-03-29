@@ -1,0 +1,261 @@
+
+/*
+The layout for the rest of this css is a modified version from:
+http://www.maxdesign.com.au/articles/process/
+
+Students are encouraged to read this article.  Great explanation of some sound design concepts with attractive examples provided.
+
+You can cut and paste this at the bottom of your existing css file, and when used in conjunction with the css_layout.html file you unzipped, can wrap your pages into this site.
+*/
+span.headline {
+	border-style: double;
+	border-width: 3px;
+	border-color: red;
+	/*text-decoration: underline;*/
+	/*color: darkblue;*/
+}
+img.tablePhoto {
+	margin: 0 auto;
+	padding: 0px;
+	height: 1%;
+	right: 0px;
+	
+}
+td.tablePara {
+	border-style: groove;
+	border-width: 4px;
+	border-color: red;
+	background-color: #FFFFF5;
+	width: 100%;
+	
+	/*width:460px;*/
+	float:left;
+	/*background:#f3f3f3;*/
+	/*border-top:solid 2px #fcb03d;*/
+	/*padding: 0 0 20px;*/
+}														
+td.para {
+	border-style: groove;
+	border-width: 4px;
+	border-color: green;
+	background: #FFFFF5;
+}
+td.descPara {
+border-style: groove;
+	border-width: 4px;
+	border-color: green;
+	background: #FFFFF5;
+width: 80%;
+}
+
+#container
+{
+	
+	width: 1343px;
+	background: lightgrey;
+	padding: 0px;
+	height: 1%;
+}
+
+#header
+{
+	margin: 0 auto;
+	background: #FF4D94;
+	padding: 20px;
+	height: 1%;
+	width: 1300px;
+
+}
+
+#header h1
+ { 
+			font-family: 'Brush Script MT', cursive;
+			text-decoration: overline;
+			margin: 0;
+			display: inline;
+}
+#header img
+ { 
+			vertical-align: middle;
+			width: 100px;
+}
+
+#sites
+{
+	float: left;
+	width: 100%;
+	background: darkred;	
+	
+	margin:0 auto;
+}
+
+#sites ul
+{
+	margin: 0;
+	padding: 0;
+	
+	display:inline-block;
+}
+
+#sites ul li
+{
+	list-style-type: none;
+	/*display: inline; */
+	
+	display:inline-block;
+	float:left;
+	margin: 0 1px 0 0;
+}
+
+#sites li a
+{
+	/*display: block; */
+	float: left;
+	/*padding: 5px 10px;*/
+	color: yellow;
+	text-decoration: none;
+	border-right: 1px solid #fff;
+	
+	display:inline-block;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:13px;
+	/*color:#333333;*/
+	/*background:#eaebec;*/
+	padding:20px 40px 14px 53px;
+	border-bottom:solid 0px #dbdbdc;
+}
+
+#sites li a:hover { 
+				background-color: #ccc; 
+				color: #000;
+}
+
+#navigation
+{
+	clear: left;
+	float: left;
+	width: 240px;
+	padding: 10px 0;
+	margin: 0 20px 0 0;
+	display: inline;
+}
+
+#navigation h3 { margin: 0; 
+               background-color: grey;
+}
+
+#content-container
+{
+	float: left;
+	width: 100%;
+	background-color: lightgrey;
+	background-image: url(../images/styles/background.png);
+	/* go up a directory, and then work down into images/styles directory */
+	background-repeat: repeat-y;
+	
+}
+
+#content
+{
+	float: right;
+	width: 860px;
+	padding: 20px 0;
+	margin: 0 0 0 30px;
+	display: inline;
+}
+
+#content h2 { margin: 0; }
+
+#fixedfooter
+{
+	clear: both;
+	background: lightgrey;
+	text-align: center;
+	padding: 20px;
+	height: 1%;
+	width: 1300px;
+	
+	margin-top: 17px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	border-top: solid 2px #e9e9e9;
+}
+#footer
+{
+	clear: both;
+	background: #FF4D94;
+	text-align:center;
+	padding: 20px;
+	height: 1%;
+	width: 1300px;
+	
+	margin-top: 17px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	border-top: solid 2px #e9e9e9;
+}
+#footer img{
+	vertical-align: middle;
+}
+
+#table{
+     width: 50%;
+	 margin-left: auto;
+	 margin-right: auto;
+	 background: lightred;
+}
+#Login-Detail h2,h3 {
+text-align:center;
+color: red;
+font-family: Bell MT;
+margin:0; padding:0;
+}
+#Login-Detail h4,h5,h6 {
+text-align:center;
+color: blue;
+font-family: Bell MT;
+margin:0; padding:0;
+}
+h2,h3 {
+color: red;
+font-family: Bell MT;
+margin:0; padding:0;
+}
+h4,h5,h6 {
+
+color: blue;
+font-family: Bell MT;
+margin:0; padding:0;
+}
+#Register-Detail h2,h3 {
+text-align:center;
+color: red;
+font-family: Bell MT;
+margin:0; padding:0;
+}
+#Register-Detail h4,h5,h6 {
+text-align:center;
+color: blue;
+font-family: Bell MT;
+margin:0; padding:0;
+}
+p.blueHeadline {
+text-decoration: bold;
+color: blue;
+}
+td.locations {
+width: 24%;
+}
+td.para20
+{
+width: 20%;
+}
+td.para80
+{
+width: 80%;
+}
+#table {
+float:center;
+}
